@@ -14,7 +14,7 @@
 
 - **Github** (_Intermediate_)
 
-  ## **PROFESSIONAL EXPERIENCE**
+ ## **PROFESSIONAL EXPERIENCE**
 
 _**I experimented with frontendmentor.io challenges using HTML, CSS, JS, SASS.**_
 
