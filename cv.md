@@ -39,5 +39,20 @@ Received A+ diploma, Number 1 of the class 2023
 
 We know you'll love ZTM. That's why we provide a no hassle, 30-day money back guarantee.
 
+## **LANGUAGE**
+
+- **English** (_Intermediate_)
+
+- **Arabic** (_Beginner_)
+
+- **Uzbek** (_Native_)
+
+#### **HONORS AND AWARDS**
+
+- [Responsive Web Design](https://freecodecamp.org/certification/Malikova_Shahzoda/responsive-web-design)
+
+- [Javascript Algorithms and Data Structures](https://freecodecamp.org/certification/Malikova_Shahzoda/javascript-algorithms-and-data-structures-v8)
+
+
 
   
