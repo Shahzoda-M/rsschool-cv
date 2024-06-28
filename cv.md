@@ -28,6 +28,7 @@ _**I experimented with frontendmentor.io challenges using HTML, CSS, JS, SASS.**
 - [Hangman game](https://hangman-game-shahzodas-projects.vercel.app/)
 
 - [30 days JS](https://game-shahzodas-projects.vercel.app/)
+  
 
 ## **EDUCATION**
 
@@ -38,6 +39,7 @@ Received A+ diploma, Number 1 of the class 2023
 #### Frontend Software Engineering |ZTM Academy ( 2023 - 2024 remote)
 
 We know you'll love ZTM. That's why we provide a no hassle, 30-day money back guarantee.
+
 
 ## **LANGUAGE**
 
