@@ -30,6 +30,28 @@ _**I experimented with frontendmentor.io challenges using HTML, CSS, JS, SASS.**
 - [30 days JS](https://game-shahzodas-projects.vercel.app/)
   
 
+## **Code Example**
+
+``` JavaScript
+
+let fruit = "apple";
+
+switch (fruit) {
+  case "apple":
+    console.log("This is an apple.");
+    break;
+  case "orange":
+    console.log("This is an orange.");
+    break;
+  case "banana":
+    console.log("This is a banana.");
+    break;
+  default:
+    console.log("I'm not sure what fruit this is.");
+    break;
+}
+```
+
 ## **EDUCATION**
 
 #### General Secondary School |High School Diploma (Uzbekistan, 2012 - 2023)
@@ -48,6 +70,7 @@ We know you'll love ZTM. That's why we provide a no hassle, 30-day money back gu
 - **Arabic** (_Beginner_)
 
 - **Uzbek** (_Native_)
+  
 
 #### **HONORS AND AWARDS**
 
